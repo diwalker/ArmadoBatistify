@@ -10,7 +10,15 @@ body, html {
     background-color: #000000;
     color: #ddd;
     font-family: 'Montserrat', sans-serif;
-    
+}
+
+.container {
+    border: 1px solid #28282b;
+    border-radius: 55px;
+    padding-top: 55px;
+    padding-bottom: 25px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
 
 img {
